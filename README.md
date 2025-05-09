@@ -1,2 +1,13 @@
-# IBM_Gen-AI_Email-Formalizer
-Email Formalizer is a Streamlit app that converts informal text into formal email content using Hugging Face’s transformer models. Ideal for professionals who need to quickly draft polished emails from casual input. Built with Python, Transformers, and Streamlit for a simple and effective writing experience.
+# Email Formalizer using Transformers
+
+This project uses a Hugging Face T5-based transformer model to rephrase informal text into formal email format using Streamlit.
+
+## Features
+- Takes casual/informal input text
+- Returns a formalized version
+- Web interface built with Streamlit
+- Powered by Hugging Face Transformers
+
+
+🚀 **Live Demo**: [Click here to try the Email Formalizer](https://email-formaliser-using-transformers.streamlit.app/)
+
